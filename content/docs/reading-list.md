@@ -11,13 +11,13 @@ These reading orders were randomly selected from my compiled to-read list.
 1. *In Search of Lost Time* by Marcel Proust
 
     Proust's multi-volume work originally published in French between 1913 and 1927 as *À la recherche du temps perdu*.
-    Originally published in English as *Remembrance of Things Past*.
-    All seven volumes are well-regarded, but the most read is Volume 1: *Swann's Way* (particularly the third part, "Swann in Love").
+    First published in English, translated by C. K. Scott Moncreiff, as *Remembrance of Things Past*.
+    All seven volumes are well-regarded, but the most read is Volume 1: *Swann's Way* (particularly the second part, "Swann in Love").
 
     There is a version available by Standard Ebooks, but the only public domain translation is C. K. Scott Moncrieff's.
-    I'm not opposed to that translation, but after reading about the available translations, I'd want to at least read one of the later revised versions or a different translation altogether.
+    I'm not opposed to that translation, but after reading about the available translations, I want to at least read one of the later revised versions or a different translation altogether.
 
-    Particularly:
+    Specifically:
     - *Swann's Way*, translated by C. K. Scott Moncrieff, edited and annotated by William C. Carter (Yale, 2013), or
     - *The Swann Way*, translated by Brian Nelson, edited by Adam Watt (Oxford, 2023)
         - Only the first volume is available so far, so I would need to switch editions if I continue with the next volumes (or wait for the next volumes by Oxford Press)
@@ -31,13 +31,19 @@ These reading orders were randomly selected from my compiled to-read list.
     [Wikipedia](https://en.wikipedia.org/wiki/In_Search_of_Lost_Time)  |   [Standard Ebooks](https://standardebooks.org/ebooks/marcel-proust/in-search-of-lost-time/c-k-scott-moncrieff) | 
 
 2. *Man's Fate* by André Malraux
+
+   Malraux's novel about the Shanghai massacre of 1927. Originally published in French in 1933 with two translations into English released in 1934; only one of which is still in print: Haakon Chevalier's *Man's Fate*.
+
+    - Malraux, André. 1990. *Man’s Fate (La Conditione Humaine)*. Translated by Haakon H. Chevalier. New York: Vintage Books.
+
+
 3. *Up from Slavery* by Booker T. Washington
 4. *The Warmth of Other Suns* by Isabel Wilkerson
 5. *The Corrections* by Jonathan Franzen
 6. *Wolf Hall* by Hilary Mantel
 7. *My Brilliant Friend* by Elena Ferrante
 8. *The Education of Henry Adams* by Henry Adams
-9. *The Varieties of Religious Experience* by William James
+9.  *The Varieties of Religious Experience* by William James
 10. *A Room of One's Own* by Virginia Woolf
 11. *A Portrait of the Artist as a Young Man* by James Joyce
 12. *Silent Spring* by Rachel Carson

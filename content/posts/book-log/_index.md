@@ -1,5 +1,7 @@
-+++
-title = 'Book Log'
-date = 2024-09-12T13:52:37-05:00
-draft = false
-+++
+---
+title: Book Log
+date: 2024-09-12T13:52:37-05:00
+draft: false
+cascade:
+  type: docs
+---
